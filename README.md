@@ -34,7 +34,11 @@
     ```
 ## Features and Interfaces:
 
-1. Drug Discovery App
+### 1. Drug Discovery App
+
+![Image](https://github.com/AmanKrSahu/BioInformatics-Web-Apps/assets/92854825/8385ae27-f8e5-48d8-ae7e-c1706f9c3f76)
+
+![Image](https://github.com/AmanKrSahu/BioInformatics-Web-Apps/assets/92854825/6462a29b-e504-47e9-8963-62011e5e4958)
 
 ## Tools and Languages:
 
